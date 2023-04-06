@@ -1,1 +1,0 @@
-chrome-extension://iibninhmiggehlcdolcilmhacighjamp/assets/stubs/content-scripts-content-ui-1679689374783.js

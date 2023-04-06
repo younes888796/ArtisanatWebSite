@@ -1,1 +1,0 @@
-chrome-extension://iibninhmiggehlcdolcilmhacighjamp/assets/stubs/content-scripts-template-source.entry-1679689374783.js
