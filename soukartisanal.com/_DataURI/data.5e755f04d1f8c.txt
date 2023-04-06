@@ -1,0 +1,1 @@
+chrome-extension://iibninhmiggehlcdolcilmhacighjamp/content-scripts/destroy.js
