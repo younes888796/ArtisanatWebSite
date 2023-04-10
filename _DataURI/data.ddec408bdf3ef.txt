@@ -1,0 +1,1 @@
+chrome-extension://iibninhmiggehlcdolcilmhacighjamp/shared-ui-components/fonts.css
